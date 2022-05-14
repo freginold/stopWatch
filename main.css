@@ -10,13 +10,13 @@ body {
 }
 
 #timeDiv {
-    font-size: 10em;
+    font-size: 4em;
     text-align: center;
     font-family: Arial;
     margin-top:0.5em;
 }
 
 .bigBtn {
-    font-size: 2em;
+    font-size: 1em;
     margin: 8px;
 }
