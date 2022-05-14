@@ -1,7 +1,5 @@
 // stopWatch v1.0
 
-// include "are you sure" before reset
-
 var timeNow = {
     h: 0,
     m: 0,

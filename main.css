@@ -10,7 +10,7 @@ body {
 }
 
 #timeDiv {
-    font-size: 4em;
+    font-size: 10em;
     text-align: center;
     font-family: Arial;
     margin-top:1em;
@@ -22,11 +22,6 @@ body {
 }
 
 .bigBtn {
-    font-size: 2em;
+    font-size: 4em !important;
     margin: 8px;
-}
-
-.confirmBtn {
-    font-size: 1em;
-    margin: 2px;
 }
