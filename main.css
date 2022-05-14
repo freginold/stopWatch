@@ -13,15 +13,10 @@ body {
     font-size: 10em;
     text-align: center;
     font-family: Arial;
-    margin-top:1em;
-}
-
-#btnDiv {
-    display: flex;
-    justify-content: center;
+    margin-top:0.5em;
 }
 
 .bigBtn {
-    font-size: 4em !important;
+    font-size: 2em;
     margin: 8px;
 }
