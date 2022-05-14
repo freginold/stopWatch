@@ -1,0 +1,27 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 1em;
+    padding: 2px 1em;
+    margin: 0;
+}
+
+#timeDiv {
+    font-size: 4em;
+    text-align: center;
+    font-family: Arial;
+    margin-top:1em;
+}
+
+.bigBtn {
+    font-size: 2em;
+    margin: 8px;
+}
+
+.confirmBtn {
+    font-size: 1em;
+    margin: 2px;
+}
