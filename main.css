@@ -16,6 +16,11 @@ body {
     margin-top:1em;
 }
 
+#btnDiv {
+    display: flex;
+    justify-content: center;
+}
+
 .bigBtn {
     font-size: 2em;
     margin: 8px;
